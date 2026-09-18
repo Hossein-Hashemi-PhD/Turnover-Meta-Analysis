@@ -1,0 +1,21 @@
+# Private data
+data/raw/
+data/processed/
+
+# Generated analysis outputs
+results/
+
+# Local configuration containing private file paths
+config.R
+
+# R temporary/workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
