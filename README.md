@@ -4,6 +4,8 @@ This repository contains the R code used to process, harmonize, and analyze data
 
 The project integrates evidence across primary studies that report salesperson turnover, turnover intentions, and related attitudinal, behavioral, organizational, and contextual variables. The analysis pipeline was developed to transform heterogeneous study-level coding into standardized datasets suitable for meta-analysis, moderator analysis, and meta-analytic structural equation modeling.
 
+The original analytical pipeline and working R code were developed in 2020. The code in this repository has subsequently been cleaned, organized, and documented for public sharing while preserving the original analytical logic.
+
 ## Analysis Workflow
 
 The analysis proceeds through several stages:
